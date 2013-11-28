@@ -1,2 +1,4 @@
 voici un texte de test
 modification du fichier online
+ajout d'un texte en local
+y a t'il des conflits?
